@@ -3,7 +3,7 @@
 Desenvolvedor Full Stack | Laravel · Node.js · Vue · React
 📍 Concórdia, Santa Catarina, Brasil
 
-+3 anos de experiência em backend, frontend e microserviços. Atualmente na **Watch Brasil**, migrando um backend legado em Laravel para Node.js.
++3 anos de experiência em backend, frontend e microserviços. Atualmente na **Watch Brasil**, impactando +5 milhões de usuários.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisonsavi/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisonsavi64)
