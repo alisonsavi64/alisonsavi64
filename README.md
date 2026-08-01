@@ -3,9 +3,7 @@
 Desenvolvedor Full Stack | Laravel · Node.js · Vue · React
 📍 Concórdia, Santa Catarina, Brasil
 
-Apaixonado por escala e arquitetura de sistemas, com +3 anos de experiência passando por backend, frontend, microserviços e cloud. Atualmente na **Watch Brasil**, contribuindo para a migração de um backend legado em Laravel para Node.js, com foco em performance, escalabilidade e desacoplamento em microserviços.
-
-Antes disso, na **movitech**, desenvolvi microserviços que processam **+150 milhões de registros** para auditoria, integrações de pagamento (Mercado Pago, Amo) que geraram **+40% de aumento em compras online**, e sistemas em tempo real via WebSockets/Socket.IO para monitoramento de frotas em transporte público, usados em **+20 municípios**.
++3 anos de experiência em backend, frontend e microserviços. Atualmente na **Watch Brasil**, migrando um backend legado em Laravel para Node.js.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisonsavi/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alisonsavi64)
@@ -64,10 +62,10 @@ Antes disso, na **movitech**, desenvolvi microserviços que processam **+150 mil
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alisonsavi64&show_icons=true&theme=default&locale=en" alt="alisonsavi64 stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=alisonsavi64&show_icons=true&theme=default&locale=en" alt="alisonsavi64 stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alisonsavi64" alt="alisonsavi64 streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisonsavi64&layout=compact&locale=en" alt="alisonsavi64 top languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=alisonsavi64&layout=compact&locale=en" alt="alisonsavi64 top languages" />
 </p>
